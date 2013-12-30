@@ -8,5 +8,5 @@ Minimum requirement to compile and run
   * Java 1.6
 
 To compile and test the project ==> execute "mvn install" <br>
-To run application ==> execute "mvn tomcat7:run" 
+To run application ==> execute "mvn tomcat7:run"  and open http://localhost:8080/weather/ from browser
 
